@@ -6,7 +6,7 @@ Il faut paramétrer la redirection des ports sur votre boxe pour qu'elle laisse 
 
 Je sais que les fichiers sont très mal organisés et que le code et illisible mais j'avais 13-14 ans quand j'ai fait ce projet et tant que JE comprenais le code c'était impeccable ;).
 
-Une version compilé pour Linux et Windows est présente sur mon site (lien en dessous).
+Des versions compilés pour Linux et Windows sont présentes sur mon site (lien en dessous).
 
 Pour plus de détails allez voire mon site: http://remi.perenne.free.fr/site_Guerre_de_tank/leJeu.html
 
