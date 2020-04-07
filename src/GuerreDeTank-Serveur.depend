@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1527930035 source:/home/remi/Bureau/GuerreDeTank-Serveur_src/client.cpp
+	"client.h"
+
+1527930035 /home/remi/Bureau/GuerreDeTank-Serveur_src/client.h
+	<SFML/Network.hpp>
+	"irrlicht/irrlicht.h"
+
+1527930035 source:/home/remi/Bureau/GuerreDeTank-Serveur_src/infoPartie.cpp
+	"infoPartie.h"
+	"vector3d_operateur.h"
+
+1527930035 /home/remi/Bureau/GuerreDeTank-Serveur_src/infoPartie.h
+	<vector>
+	"client.h"
+	<irrlicht/vector3d.h>
+	<SFML/System.hpp>
+
+1527930035 /home/remi/Bureau/GuerreDeTank-Serveur_src/vector3d_operateur.h
+	<irrlicht/vector3d.h>
+	<SFML/Network.hpp>
+
+1539016697 source:/home/remi/Bureau/GuerreDeTank-Serveur_src/main.cpp
+	"MyEventReceiver.h"
+
+1527930035 /home/remi/Bureau/GuerreDeTank-Serveur_src/MyEventReceiver.h
+	<SFML/Network.hpp>
+	<irrlicht/irrlicht.h>
+	<vector>
+	"client.h"
+
+1539016654 source:/home/remi/Bureau/GuerreDeTank-Serveur_src/MyEventReceiver.cpp
+	"MyEventReceiver.h"
+	<SFML/Network.hpp>
+	<string>
+	"vector3d_operateur.h"
+	"infoPartie.h"
+
+1527930035 source:/home/remi/Bureau/GuerreDeTank-Serveur_src/vector3d_operateur.cpp
+	"vector3d_operateur.h"
+
