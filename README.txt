@@ -8,7 +8,7 @@ Je sais que les fichiers sont très mal organisés et que le code et illisible m
 
 Des versions compilés pour Linux et Windows sont présentes sur mon site (lien en dessous).
 
-Pour plus de détails allez voire mon site: http://remi.perenne.free.fr/site_Guerre_de_tank/leJeu.html
+Pour plus de détails allez voire mon site: http://remi.perenne.free.fr/site/html/guerreDeTank.html
 
 Me contacter:
 6 rue Bourdelle, Brest 29200
